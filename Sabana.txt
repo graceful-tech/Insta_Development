@@ -1,5 +1,8 @@
-Hi Sabana
+public class HelloGuys{
 
-How are you
-
-Adding reels feature
+public static void main(String[] args) {
+System.out.println("Hello Sabana");
+System.out.println("Hello Sajeen");
+System.out.println("Hello Jeesha");
+}
+}
